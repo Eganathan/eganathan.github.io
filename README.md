@@ -1,6 +1,6 @@
 # Eknath · personal portfolio
 
-A responsive, static portfolio for [eknath.dev](https://eknath.dev). Built with HTML and CSS, with no build step or external runtime dependencies.
+A compact, dark-blue, responsive portfolio for [eknath.dev](https://eknath.dev). Built with HTML and CSS, with no build step or external runtime dependencies.
 
 ## Local preview
 
@@ -15,3 +15,7 @@ Open [127.0.0.1:3187](http://127.0.0.1:3187/).
 The site files live at the repository root. GitHub Pages should publish from the root of `master`. `CNAME` preserves the custom domain `eknath.dev`.
 
 Update `index.html` for content and links, and `styles.css` for presentation. The portrait and favicon are served locally.
+
+## Contact
+
+The contact dialog opens a direct email link and offers a copy-address button. Anonymous feedback has been removed for now; this static site does not require a PHP backend. The native dialog supports Escape, focus containment, and focus restoration.
